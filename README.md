@@ -2,8 +2,18 @@
 
 1. lloyd.py : Lloyd’s k-means
 2. kmeanspp.py : k-means++
+	><ul>
+	  ><li>Client-side</li>
+	  >  <p>JavaScript/CSS/HTML/EJS</p>
+	  ><li>Server-side</li>
+	  >  <p>Node.js</p>
+	  ><li>Database</li>
+	  >  <p>MongoDB</p>
+	  ><li>IDE</li>
+	  >  <p>Cloud9</p>
+	  ></ul>
 	>Arguments:
-	>• Input1: A data file. The data is a comma separated matrix of size n × m. Here the data points are the rows (not the columns) of the matrix.
+	>>• Input1: A data file. The data is a comma separated matrix of size n × m. Here the data points are the rows (not the columns) of the matrix.
 	>• Input2: k, the number of desired clusters.
 	>• Input3: r, the number of random iterations.
 	>• Input4: output file
