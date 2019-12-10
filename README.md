@@ -2,15 +2,14 @@
 
 1. lloyd.py : Lloyd’s k-means
 2. kmeanspp.py : k-means++
-	>Arguments:
+	Arguments:
 	><ul>
 	><li>Input1: A data file. The data is a comma separated matrix of size n × m. Here the data points are the rows (not the columns) of the matrix.</li>
 	><li>Input2: k, the number of desired clusters.</li>
 	><li>Input3: r, the number of random iterations.</li>
 	><li>Input4: output file.</li>
 	>  <p>Ex: 
-			Python3 keanspp.py inputdata k r output
-		</p>
+			Python3 keanspp.py inputdata k r output</p>
  	></ul>
 	
 	Output result:
@@ -20,15 +19,14 @@
  	></ul>
 
 3. spectral.py : Spectral clustering
-	>Arguments:
+	Arguments:
 	><ul>
 	><li>Input1: A data file. Same as the data file of Part I.</li>
 	><li>Input2: k, the number of desired clusters. Same as in Part I.</li>
 	><li>Input3: σ, sigma</li>
 	><li>Input4: output file.</li>
 	>  <p>Ex:
-			Python3 spectral.py inputdata k sigma outputclusters
-		</p>
+			Python3 spectral.py inputdata k sigma outputclusters</p>
  	></ul>
 	
 	Output result:
