@@ -2,6 +2,7 @@
 
 1. lloyd.py : Lloyd’s k-means
 2. kmeanspp.py : k-means++
+	
 	Arguments:
 	><ul>
 	><li>Input1: A data file. The data is a comma separated matrix of size n × m. Here the data points are the rows (not the columns) of the matrix.</li>
@@ -19,6 +20,7 @@
  	></ul>
 
 3. spectral.py : Spectral clustering
+	
 	Arguments:
 	><ul>
 	><li>Input1: A data file. Same as the data file of Part I.</li>
