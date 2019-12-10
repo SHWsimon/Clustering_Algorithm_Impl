@@ -10,7 +10,7 @@
 	><li>Input3: r, the number of random iterations.</li>
 	><li>Input4: output file.</li>
 	>  <p>Ex: 
-			Python3 keanspp.py inputdata k r output</p>
+			Python3 keanspp.py inputdata k r output
  	></ul>
 	
 	Output result:
@@ -28,7 +28,7 @@
 	><li>Input3: σ, sigma</li>
 	><li>Input4: output file.</li>
 	>  <p>Ex:
-			Python3 spectral.py inputdata k sigma outputclusters</p>
+			Python3 spectral.py inputdata k sigma outputclusters
  	></ul>
 	
 	Output result:
